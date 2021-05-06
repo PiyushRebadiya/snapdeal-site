@@ -1,0 +1,89 @@
+.card {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.card {
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    background-clip: padding-box;
+}
+
+.card .card-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.card .card-image img {
+    border-radius: 2px 2px 0 0;
+    background-clip: padding-box;
+}
+
+
+.card .card-content {
+    padding: 16px;
+    border-radius: 0 0 2px 2px;
+    background-clip: padding-box;
+    box-sizing: border-box;
+}
+
+.card .card-content p {
+    margin: 0;
+    color: inherit;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: 72px;
+}
+
+.card .card-content span.card-title {
+    line-height: 48px;
+}
+
+.card .card-action {
+    border-top: 1px solid rgba(160, 160, 160, 0.2);
+    padding: 16px;
+}
+
+.card .card-action a {
+    color: blue;
+    margin-right: 16px;
+    transition: color 0.3s ease;
+    text-transform: uppercase;
+}
+
+.card .card-action a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    height: 288px;
+    width: 100%;
+    padding: 10px 10px;
+}
+
+h4 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0px 16px;
+}
+
+.aChange {
+    left: 75%;
+}
+
+a.aChange.r-4 {
+    color: violet;
+    position: absolute;
+    color: blue;
+}
+
+h4.card-title {
+    margin-bottom: .75rem;
+    position: relative;
+    top: 15px;
+}
+
