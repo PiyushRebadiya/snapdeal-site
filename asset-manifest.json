@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/snapdeal-site/static/css/main.d69d0bdf.chunk.css",
+    "main.js": "/snapdeal-site/static/js/main.b6a04cae.chunk.js",
+    "main.js.map": "/snapdeal-site/static/js/main.b6a04cae.chunk.js.map",
+    "runtime-main.js": "/snapdeal-site/static/js/runtime-main.8f85a0ad.js",
+    "runtime-main.js.map": "/snapdeal-site/static/js/runtime-main.8f85a0ad.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/snapdeal-site/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4f785e4d.chunk.js": "/snapdeal-site/static/js/2.4f785e4d.chunk.js",
+    "static/js/2.4f785e4d.chunk.js.map": "/snapdeal-site/static/js/2.4f785e4d.chunk.js.map",
+    "static/js/3.56325563.chunk.js": "/snapdeal-site/static/js/3.56325563.chunk.js",
+    "static/js/3.56325563.chunk.js.map": "/snapdeal-site/static/js/3.56325563.chunk.js.map",
+    "index.html": "/snapdeal-site/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/snapdeal-site/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d69d0bdf.chunk.css.map": "/snapdeal-site/static/css/main.d69d0bdf.chunk.css.map",
+    "static/js/2.4f785e4d.chunk.js.LICENSE.txt": "/snapdeal-site/static/js/2.4f785e4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f85a0ad.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4f785e4d.chunk.js",
+    "static/css/main.d69d0bdf.chunk.css",
+    "static/js/main.b6a04cae.chunk.js"
+  ]
+}
